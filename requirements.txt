@@ -9,7 +9,7 @@ pandas
 nltk
 tqdm
 PyYAML
-torch
+torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
 matplotlib
 notebook
 boto3
