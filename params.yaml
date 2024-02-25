@@ -6,4 +6,4 @@ trainingarguments:
   logging_steps: 10
   evaluation_strategy: 'steps'
   eval_steps: 500
-  gradient_accumulation_steps: 16
+  gradient_accumulation_steps: 1
