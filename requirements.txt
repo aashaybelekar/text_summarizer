@@ -1,5 +1,4 @@
 transformers
-transformers[sentencepiece]
 transformers[torch]
 datasets
 sacrebleu
@@ -9,7 +8,6 @@ pandas
 nltk
 tqdm
 PyYAML
-torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
 matplotlib
 notebook
 boto3
